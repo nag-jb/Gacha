@@ -30,7 +30,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="p3x-sz-MqS">
-                                <rect key="frame" x="169.66666666666666" y="501" width="51" height="42"/>
+                                <rect key="frame" x="169.66666666666666" y="481" width="51" height="42"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <state key="normal" title="引く"/>
@@ -44,7 +44,7 @@
                         <constraints>
                             <constraint firstItem="XzS-c1-LCU" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="4y5-Qb-pCY"/>
                             <constraint firstItem="lef-Ju-avg" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="Si2-78-phG"/>
-                            <constraint firstItem="p3x-sz-MqS" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="100" id="U5r-xu-Pbu"/>
+                            <constraint firstItem="p3x-sz-MqS" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="80" id="U5r-xu-Pbu"/>
                             <constraint firstItem="XzS-c1-LCU" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="-300" id="dxn-Vb-Vus"/>
                             <constraint firstItem="lef-Ju-avg" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="oaY-nA-4GA"/>
                             <constraint firstItem="p3x-sz-MqS" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="yzc-7r-Mf9"/>
